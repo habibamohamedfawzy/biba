@@ -1,0 +1,23 @@
+body{ 
+background-image: url(../images/picture1.jpg);
+}
+p {
+	color: white;
+	text-align: left;
+	font-size: 30px;
+	font-family: arial;
+}
+h1 {
+		  
+		  color: green; 
+		
+		}
+		h2 {
+			color: green;
+		}
+		li{
+	font-size: 20px;
+	color: white;
+}
+	
+		

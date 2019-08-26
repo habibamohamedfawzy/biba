@@ -1,0 +1,14 @@
+body{ 
+background-image: url(../images/picture1.jpg);
+background-size:1350px 1350px;
+}
+p {
+	color: white;
+	text-align: left;
+	font-size: 15px;
+	font-family: arial;
+}
+li{
+	font-size: 20px;
+}
+	
